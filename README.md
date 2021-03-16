@@ -1,5 +1,5 @@
 # Binary_Communication_Channel
-A script that simulates a noisy binary communication channel and demonstrates the Law of Large Numbers.
+A script that simulates a noisy binary communication channel.
 
 Channel:
 
