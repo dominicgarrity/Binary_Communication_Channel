@@ -1,5 +1,5 @@
 # Binary_Communication_Channel
-A script that simulates a noisy binary communication channel.
+Simulation of a noisy binary communication channel.
 
 Channel:
 
